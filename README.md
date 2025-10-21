@@ -1,6 +1,6 @@
 # MaShuaiStusio app download
 download this app lastest version to get MaShaui Farm 2's chinese update log
 
-english update log was coming soon......
+Android 4.4+
 
 this app made in javascript
