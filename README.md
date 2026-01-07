@@ -6,4 +6,4 @@ Android 4.4+
 this app made in javascript
 
 <p>test</p>
-<h3>stop update</h3>
+<h3>⚠️stop update</h3>
